@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T00:12:44.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="xHpIbpBq-axHnG8mGEAY" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T00:15:43.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Kb7N6VQlpGGrWZjhVCEA" version="13.6.9" type="github">
   <diagram id="wJ3zXaT87ZuO8pzMoavk" name="Page-1">
     <mxGraphModel dx="1857" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="nHsNRjQS-M5WRetZeh70-24" value="Historial de datos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="232" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nHsNRjQS-M5WRetZeh70-25" value="Modelo de seguridad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nHsNRjQS-M5WRetZeh70-25" value="Modelo de gestion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="384" y="203" width="117" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nHsNRjQS-M5WRetZeh70-26" value="Red social entre habitantes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
