@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T00:15:43.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Kb7N6VQlpGGrWZjhVCEA" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T17:57:04.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="qyFVPff3wuPu_RyT9V-G" version="13.6.9" type="github">
   <diagram id="wJ3zXaT87ZuO8pzMoavk" name="Page-1">
-    <mxGraphModel dx="1857" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,14 +61,17 @@
         <mxCell id="nHsNRjQS-M5WRetZeh70-26" value="Red social entre habitantes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="395" y="232" width="106" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="EAw8L4ti1RLnLjciRUuO-1" value="Actualizar a tiempo real la opinion de la comunidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EAw8L4ti1RLnLjciRUuO-1" value="Actualizar a tiempo real la opinion de la comunidad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="232" width="80" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="EAw8L4ti1RLnLjciRUuO-2" value="Graficas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EAw8L4ti1RLnLjciRUuO-2" value="Graficas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EAw8L4ti1RLnLjciRUuO-3" value="Foros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EAw8L4ti1RLnLjciRUuO-3" value="Foros" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="140" width="99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELKvYQn1-bOr84KsCWkS-1" value="Informar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="100" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
